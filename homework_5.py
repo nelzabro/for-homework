@@ -23,3 +23,5 @@ parrot_1 = Parrot('Pururu', 'green','loudly cry', 3 )
 print(parrot_1.age)
 print(parrot_1.greeting())
 print(parrot_1.time_to_speak())
+
+print(parrot_1.superability)
